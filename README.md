@@ -1,5 +1,7 @@
+<p align="center">
+<a href="https://github.com/Mectoche/MT.TOKEN"><img src="https://i.ibb.co/wNDXpTG/token-token.png" alt="watching" border="0"></a>
+</p>
 
-<p aling= center><a href="https://github.com/Mectoche/MT.TOKEN"><img src="https://i.ibb.co/wNDXpTG/token-token.png" alt="MT_TOKEN" border="0"></a></p>
 
 #
 
